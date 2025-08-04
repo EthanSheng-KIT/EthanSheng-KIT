@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**EthanSheng-KIT/EthanSheng-KIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently a **first-year Ph.D. student** at **Zhejiang Normal University**🇨🇳.  
+Previously, I earned my **M.Sc.** from the **Karlsruhe Institute of Technology** 🇩🇪  
+and my **B.Eng.** from **Hangzhou Dianzi University** 🇨🇳.  
 
-Here are some ideas to get you started:
+🔍 **Research Interests**  
+- 🌦 Meteorological Data Analysis  
+- 📊 Spatiotemporal Data Mining  
+- 🤖 Machine Learning for Weather & Climate  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Research**: 🌦 Meteorological Data Analysis · 📊 Spatiotemporal Data Mining · 🤖 Machine Learning for Weather & Climate  
+
+🏃 **Running Enthusiast**: Completed **60+ marathons** across Europe & China, PB **3:10:57**.
