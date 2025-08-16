@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 First-year **Ph.D. student** at **Zhejiang Normal University** 🇨🇳  
-Previously: **M.Sc.** at **Karlsruhe Institute of Technology** 🇩🇪,  
+**M.Sc.** at **Karlsruhe Institute of Technology** 🇩🇪,  
 **B.Eng.** at **Hangzhou Dianzi University** 🇨🇳  .  
 
 🔍 **Research**: 🌦 Meteorological Data Analysis · 📊 Spatiotemporal Data Mining · 🤖 Machine Learning for Weather & Climate  
